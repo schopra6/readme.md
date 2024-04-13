@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **ML Deployment, LLM**
 
+
+:fire: ** Recent project:**
+- [TeleGPT](https://github.com/schopra6/teleGPT) - (GPT) with the versatility of Telegram's API to create a responsive and interactive chatbot
+
 - 📫 How to reach me **sahilc(dot)mac(@)gmail(dot)com**
 
 <h3 align="left">Connect with me:</h3>
